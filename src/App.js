@@ -1,7 +1,7 @@
 import './App.css';
 import header from '../src/componentes/header/header'
 
-function App() {
+const App = () => {
   return (
     <>
       <header />
