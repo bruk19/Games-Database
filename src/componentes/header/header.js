@@ -11,8 +11,8 @@ const Nav = () => {
           <h2>The Games Database</h2>
         </div>
         <div className='icon-contain'>
-          <Icon icon={androidMicrophone} />
-          <Icon icon={gearA} />
+          <Icon icon={androidMicrophone} size={30} />
+          <Icon icon={gearA} size={30} />
         </div>
     </div>
   );
