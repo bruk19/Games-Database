@@ -6,11 +6,11 @@ import './header.css'
 
 const Nav = () => {
   return (
-    <div>
+    <div className='nav-contain'>
         <div>
           <h2>The Games Database</h2>
         </div>
-        <div>
+        <div className='icon-contain'>
           <Icon icon={androidMicrophone} />
           <Icon icon={gearA} />
         </div>
