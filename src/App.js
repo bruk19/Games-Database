@@ -1,11 +1,11 @@
-import './App.css';
-import header from '../src/componentes/header/header'
 
-const App = () => {
+import Nav from './componentes/header/header'
+
+function App() {
   return (
     <>
-      <header />
-    </>
+      <Nav />
+    </>  
   );
 }
 

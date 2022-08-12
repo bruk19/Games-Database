@@ -2,8 +2,9 @@ import React from 'react';
 import { Icon } from 'react-icons-kit';
 import {androidMicrophone} from 'react-icons-kit/ionicons/androidMicrophone';
 import {gearA} from 'react-icons-kit/ionicons/gearA';
+import './header.css'
 
-const header = () => {
+const Nav = () => {
   return (
     <div>
         <div>
@@ -14,7 +15,7 @@ const header = () => {
           <Icon icon={gearA} />
         </div>
     </div>
-  )
-}
+  );
+};
 
-export default header;
+export default Nav;
