@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://api.rawg.io/api/games?key=f701489903124362ba098939ed7babd7
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

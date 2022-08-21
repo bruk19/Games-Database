@@ -1,0 +1,18 @@
+.nav-contain {
+  display: flex;
+  justify-content: space-between;
+  height: 3rem;
+  align-items: center;
+  background-color: rgb(83, 47, 47);
+  color: white;
+  padding: 10px;
+}
+
+.nav-contain, h2 {
+  padding-left: 30px;
+  font-size: 2rem;
+}
+
+.icon-contain {
+    padding-right: 2rem;
+}
